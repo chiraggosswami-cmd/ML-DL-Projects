@@ -1,2 +1,1 @@
-# ML-DL-Projects
-My personal repository for Machine Learning and Deep Learning projects, experiments, and notebooks.
+This space serves as a digital portfolio showcasing my end-to-end projects, experimental notebooks, and model deployments.
